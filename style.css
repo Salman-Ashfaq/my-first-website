@@ -70,7 +70,7 @@ h2 {
 }
 #home::before {
   content: "";
-  background: url(imges/img\ ind\ 2.jpg) no-repeat center center/cover;
+  background: url(./imges/img\ ind\ 2.jpg) no-repeat center center/cover;
   position: absolute;
   height: 50%;
   width: 100%;
